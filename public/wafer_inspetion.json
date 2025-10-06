@@ -1,0 +1,11130 @@
+[{
+  "FileVersion": [
+    1,
+    2
+  ],
+  "FileTimestamp": "05-30-17 12:03:49",
+  "InspectionStationID": [
+    "NONE",
+    "AIT",
+    "YE02AIT3"
+  ],
+  "SampleType": "WAFER",
+  "ResultTimestamp": "02-09-17 12:11:07",
+  "LotID": "TM68071_1L",
+  "SampleSize": [
+    1,
+    200
+  ],
+  "DeviceID": "N54E",
+  "SetupID": {
+    "Device": "N54E",
+    "Timestamp": "02-09-17 12:11:07"
+  },
+  "StepID": "CL_SPACR_A7",
+  "SampleOrientationMarkType": "NOTCH",
+  "OrientationMarkLocation": "UP",
+  "DiePitch": [
+    8298.0,
+    7729.0
+  ],
+  "DieOrigin": [
+    0.0,
+    0.0
+  ],
+  "WaferID": 20,
+  "Slot": 23,
+  "SampleCenterLocation": [
+    -302.0,
+    15378.0
+  ],
+  "ClassLookup": {
+    "0": "UNCLASSED",
+    "1": "SEM_RECLASS",
+    "2": "NUISANCE",
+    "4": "PARTICLE_K",
+    "5": "PAT_OTHER_K",
+    "6": "INFILM_PART_K",
+    "7": "PAT_PLUS_K",
+    "8": "OTHER_K",
+    "9": "CONT_VIA_K",
+    "10": "SCRATCH_K",
+    "11": "TEAROUT_K",
+    "12": "LIFTING_K",
+    "13": "ARCING_K",
+    "14": "PAT_FLAT_K",
+    "15": "NECKING_K",
+    "16": "PLANAR_BLK_K",
+    "17": "CROP_CIR_K",
+    "18": "CASTLE_K",
+    "19": "CORR_SL",
+    "20": "CORR_BP",
+    "28": "MIC_SCR_K",
+    "30": "OBSOLETE_BAD_CAPTURE",
+    "31": "OPTICAL_NO_SEM",
+    "50": "MISCLASS",
+    "104": "PARTICLE_NK",
+    "105": "PAT_OTHER_NK",
+    "106": "INFILM_PART_NK",
+    "107": "PAT_PLUS_NK",
+    "108": "OTHER_NK",
+    "109": "CONT_VIA_NK",
+    "114": "PAT_FLAT_NK",
+    "116": "PLANAR_BLK_NK",
+    "117": "CROP_CIR_NK",
+    "118": "CASTLE_NK",
+    "122": "CORR_LL",
+    "123": "POINT_NK",
+    "124": "W_FLAKES",
+    "125": "CONES_NK",
+    "126": "ELBOWS_NK",
+    "127": "POLY_SPOT_NK",
+    "129": "MTL_ORG_NK",
+    "132": "MTL_RES_NK",
+    "201": "BLOCK",
+    "202": "MULTI_FULL_COL",
+    "203": "FULL_COL",
+    "204": "MULTI_FULL_ROW",
+    "205": "FULL_ROW",
+    "206": "MULTI_PARTIAL_COL",
+    "207": "PARTIAL_COL",
+    "208": "MULTI_PARTIAL_ROW",
+    "209": "PARTIAL_ROW",
+    "210": "DOUBLE_BIT_COL",
+    "211": "DOUBLE_BIT_ROW",
+    "212": "SINGLE_BIT",
+    "213": "CLUSTER",
+    "218": "PARTIAL_BLOCK",
+    "220": "CROSS",
+    "222": "BLOCK_F",
+    "223": "MULTI_FULL_COL_F",
+    "224": "FULL_COL_F",
+    "225": "MULTI_FULL_ROW_F",
+    "226": "FULL_ROW_F",
+    "227": "MULTI_PARTIAL_COL_F",
+    "228": "PARTIAL_COL_F",
+    "229": "MULTI_PARTIAL_ROW_F",
+    "230": "PARTIAL_ROW_F",
+    "231": "DOUBLE_BIT_COL_F",
+    "232": "DOUBLE_BIT_ROW_F",
+    "233": "SINGLE_BIT_F",
+    "234": "CLUSTER_F",
+    "239": "PARTIAL_BLOCK_F",
+    "241": "CROSS_F",
+    "243": "EVERY_8_FAIL",
+    "244": "EVERY_8_FAIL_F",
+    "245": "EVERY_32_FAIL",
+    "246": "EVERY_32_FAIL_F",
+    "247": "EVERY_64_FAIL",
+    "248": "EVERY_64_FAIL_F",
+    "501": "NO_DEFECT_FOUND",
+    "502": "STAINING_OR_ROUGH_METAL",
+    "503": "CONTAMINATION",
+    "504": "COLOR_VARIATION",
+    "505": "SCRATCH",
+    "506": "PROBE_DEFECTIVITY",
+    "507": "POOR_SPIN",
+    "508": "STRINGER",
+    "509": "VEIL:509",
+    "510": "SCUMMING",
+    "511": "PATTERN_BLOW-OUT",
+    "512": "PATTERN_LIFTING",
+    "513": "PATTERN_MISSING",
+    "514": "PREVIOUS_CONTAMINATION",
+    "515": "PREVIOUS_SCRATCH",
+    "516": "PREVIOUS_POOR_SPIN",
+    "517": "PREVIOUS_PATTERN_LIFTING",
+    "518": "PREVIOUS_PATTERN_MISSING",
+    "519": "RESIDUAL_METAL",
+    "520": "RESIDUAL_PASSIVATION",
+    "521": "INCOMPLETE_STRIP",
+    "522": "RETICULATION",
+    "523": "VOID:523",
+    "524": "REPEATER",
+    "525": "WRONG_RETICLE",
+    "526": "MISALIGNED",
+    "527": "CORNER_DEFECT",
+    "528": "BOLD_PLMD_EDGE",
+    "529": "FOREIGN_MATTER",
+    "530": "PLMD_OR_RESIST_JUNK",
+    "531": "RECESSED_VIAS",
+    "532": "DARK_PAD_WITH_LIGHT_CENTER",
+    "533": "PEPPER",
+    "534": "DOME_DEFECTS",
+    "535": "MICROBUBBLE"
+  },
+  "OrientationInstructions": "",
+  "InspectionTest": 1,
+  "SampleTestPlan": [
+    [
+      -7,
+      10
+    ],
+    [
+      -6,
+      10
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      -7,
+      9
+    ],
+    [
+      -5,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      -9,
+      7
+    ],
+    [
+      -7,
+      7
+    ],
+    [
+      -2,
+      7
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      -11,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      -8,
+      3
+    ],
+    [
+      -1,
+      3
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      -6,
+      2
+    ],
+    [
+      -4,
+      1
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      -7,
+      0
+    ],
+    [
+      -6,
+      0
+    ],
+    [
+      -4,
+      0
+    ],
+    [
+      -3,
+      0
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      9,
+      -1
+    ],
+    [
+      10,
+      -1
+    ],
+    [
+      -2,
+      -2
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      -10,
+      -3
+    ],
+    [
+      -4,
+      -4
+    ],
+    [
+      -2,
+      -4
+    ],
+    [
+      -9,
+      -5
+    ],
+    [
+      -8,
+      -5
+    ],
+    [
+      -7,
+      -5
+    ],
+    [
+      -5,
+      -5
+    ],
+    [
+      -1,
+      -5
+    ],
+    [
+      0,
+      -5
+    ],
+    [
+      7,
+      -5
+    ],
+    [
+      8,
+      -5
+    ],
+    [
+      -3,
+      -6
+    ],
+    [
+      1,
+      -6
+    ],
+    [
+      -5,
+      -7
+    ],
+    [
+      -2,
+      -8
+    ],
+    [
+      -2,
+      -10
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      4,
+      12
+    ],
+    [
+      -3,
+      11
+    ],
+    [
+      0,
+      11
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      -8,
+      8
+    ],
+    [
+      -2,
+      8
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      -5,
+      7
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      -2,
+      6
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      -2,
+      4
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      -9,
+      3
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      -9,
+      1
+    ],
+    [
+      -1,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      -9,
+      0
+    ],
+    [
+      6,
+      0
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      -6,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -8,
+      -2
+    ],
+    [
+      2,
+      -2
+    ],
+    [
+      4,
+      -2
+    ],
+    [
+      5,
+      -2
+    ],
+    [
+      -4,
+      -3
+    ],
+    [
+      1,
+      -3
+    ],
+    [
+      -7,
+      -4
+    ],
+    [
+      3,
+      -5
+    ],
+    [
+      -6,
+      -6
+    ],
+    [
+      -1,
+      -6
+    ],
+    [
+      3,
+      -6
+    ],
+    [
+      -6,
+      -7
+    ],
+    [
+      4,
+      -7
+    ],
+    [
+      -3,
+      -8
+    ],
+    [
+      1,
+      -10
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      -5,
+      12
+    ],
+    [
+      -5,
+      10
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      -6,
+      7
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      -1,
+      6
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      -9,
+      5
+    ],
+    [
+      -4,
+      5
+    ],
+    [
+      -3,
+      5
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      -3,
+      3
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -5,
+      0
+    ],
+    [
+      -2,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      9,
+      0
+    ],
+    [
+      -11,
+      -1
+    ],
+    [
+      -5,
+      -1
+    ],
+    [
+      -3,
+      -1
+    ],
+    [
+      2,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      8,
+      -1
+    ],
+    [
+      -1,
+      -2
+    ],
+    [
+      7,
+      -2
+    ],
+    [
+      -9,
+      -4
+    ],
+    [
+      -1,
+      -4
+    ],
+    [
+      1,
+      -4
+    ],
+    [
+      4,
+      -4
+    ],
+    [
+      -7,
+      -6
+    ],
+    [
+      6,
+      -6
+    ],
+    [
+      0,
+      -7
+    ],
+    [
+      4,
+      -8
+    ],
+    [
+      5,
+      -8
+    ],
+    [
+      -1,
+      -9
+    ],
+    [
+      3,
+      -9
+    ],
+    [
+      -1,
+      13
+    ],
+    [
+      -4,
+      11
+    ],
+    [
+      -1,
+      11
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      -9,
+      8
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      -3,
+      7
+    ],
+    [
+      -1,
+      7
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      -10,
+      6
+    ],
+    [
+      -9,
+      6
+    ],
+    [
+      -5,
+      6
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      -10,
+      5
+    ],
+    [
+      -8,
+      5
+    ],
+    [
+      -1,
+      5
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      -10,
+      4
+    ],
+    [
+      -7,
+      4
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      -10,
+      1
+    ],
+    [
+      -7,
+      1
+    ],
+    [
+      -3,
+      1
+    ],
+    [
+      -1,
+      0
+    ],
+    [
+      -10,
+      -1
+    ],
+    [
+      -9,
+      -1
+    ],
+    [
+      -7,
+      -1
+    ],
+    [
+      -7,
+      -2
+    ],
+    [
+      1,
+      -2
+    ],
+    [
+      6,
+      -2
+    ],
+    [
+      8,
+      -2
+    ],
+    [
+      -8,
+      -3
+    ],
+    [
+      -5,
+      -3
+    ],
+    [
+      0,
+      -3
+    ],
+    [
+      -8,
+      -4
+    ],
+    [
+      -6,
+      -4
+    ],
+    [
+      2,
+      -5
+    ],
+    [
+      -2,
+      -6
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      5,
+      -6
+    ],
+    [
+      7,
+      -6
+    ],
+    [
+      -2,
+      -7
+    ],
+    [
+      -1,
+      -7
+    ],
+    [
+      -4,
+      -9
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      1,
+      -9
+    ],
+    [
+      1,
+      12
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      -5,
+      11
+    ],
+    [
+      2,
+      10
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      -5,
+      8
+    ],
+    [
+      -10,
+      7
+    ],
+    [
+      -7,
+      6
+    ],
+    [
+      -6,
+      6
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      -8,
+      4
+    ],
+    [
+      -6,
+      4
+    ],
+    [
+      -3,
+      4
+    ],
+    [
+      -1,
+      4
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      -4,
+      3
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      -10,
+      2
+    ],
+    [
+      -7,
+      2
+    ],
+    [
+      -2,
+      2
+    ],
+    [
+      -1,
+      2
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      -11,
+      1
+    ],
+    [
+      -5,
+      1
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      8,
+      0
+    ],
+    [
+      5,
+      -1
+    ],
+    [
+      7,
+      -1
+    ],
+    [
+      -9,
+      -2
+    ],
+    [
+      -4,
+      -2
+    ],
+    [
+      -9,
+      -3
+    ],
+    [
+      -6,
+      -3
+    ],
+    [
+      2,
+      -3
+    ],
+    [
+      8,
+      -3
+    ],
+    [
+      -10,
+      -4
+    ],
+    [
+      -5,
+      -4
+    ],
+    [
+      5,
+      -4
+    ],
+    [
+      6,
+      -4
+    ],
+    [
+      -6,
+      -5
+    ],
+    [
+      1,
+      -7
+    ],
+    [
+      -6,
+      -8
+    ],
+    [
+      -5,
+      -8
+    ],
+    [
+      2,
+      -8
+    ],
+    [
+      -5,
+      -9
+    ],
+    [
+      4,
+      -9
+    ],
+    [
+      -1,
+      -10
+    ],
+    [
+      -2,
+      12
+    ],
+    [
+      0,
+      12
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      -4,
+      10
+    ],
+    [
+      -4,
+      9
+    ],
+    [
+      -2,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      -6,
+      8
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      -4,
+      7
+    ],
+    [
+      -7,
+      5
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      -5,
+      2
+    ],
+    [
+      -4,
+      2
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      -6,
+      1
+    ],
+    [
+      -2,
+      1
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      -11,
+      0
+    ],
+    [
+      -2,
+      -1
+    ],
+    [
+      -3,
+      -2
+    ],
+    [
+      4,
+      -3
+    ],
+    [
+      7,
+      -3
+    ],
+    [
+      7,
+      -4
+    ],
+    [
+      8,
+      -4
+    ],
+    [
+      -2,
+      -5
+    ],
+    [
+      1,
+      -5
+    ],
+    [
+      -5,
+      -6
+    ],
+    [
+      2,
+      -7
+    ],
+    [
+      6,
+      -7
+    ],
+    [
+      -4,
+      -8
+    ],
+    [
+      -1,
+      -8
+    ],
+    [
+      0,
+      -8
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      -1,
+      12
+    ],
+    [
+      -6,
+      11
+    ],
+    [
+      1,
+      11
+    ],
+    [
+      3,
+      11
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      5,
+      11
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      -8,
+      9
+    ],
+    [
+      -6,
+      9
+    ],
+    [
+      -1,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      -7,
+      8
+    ],
+    [
+      -1,
+      8
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      -8,
+      7
+    ],
+    [
+      -3,
+      6
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      -6,
+      5
+    ],
+    [
+      -5,
+      5
+    ],
+    [
+      7,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      -11,
+      3
+    ],
+    [
+      -7,
+      3
+    ],
+    [
+      -2,
+      3
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      -11,
+      2
+    ],
+    [
+      -9,
+      2
+    ],
+    [
+      -8,
+      2
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      -10,
+      0
+    ],
+    [
+      -8,
+      0
+    ],
+    [
+      -8,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      6,
+      -1
+    ],
+    [
+      -10,
+      -2
+    ],
+    [
+      -6,
+      -2
+    ],
+    [
+      9,
+      -2
+    ],
+    [
+      -2,
+      -3
+    ],
+    [
+      -1,
+      -3
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      2,
+      -4
+    ],
+    [
+      4,
+      -5
+    ],
+    [
+      5,
+      -5
+    ],
+    [
+      6,
+      -5
+    ],
+    [
+      -4,
+      -6
+    ],
+    [
+      2,
+      -6
+    ],
+    [
+      -7,
+      -7
+    ],
+    [
+      -4,
+      -7
+    ],
+    [
+      3,
+      -7
+    ],
+    [
+      1,
+      -8
+    ],
+    [
+      2,
+      -9
+    ],
+    [
+      0,
+      -10
+    ],
+    [
+      -2,
+      13
+    ],
+    [
+      -4,
+      12
+    ],
+    [
+      -3,
+      12
+    ],
+    [
+      -2,
+      11
+    ],
+    [
+      -3,
+      10
+    ],
+    [
+      -2,
+      10
+    ],
+    [
+      -1,
+      10
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      -3,
+      9
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      -4,
+      8
+    ],
+    [
+      -3,
+      8
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      -8,
+      6
+    ],
+    [
+      -4,
+      6
+    ],
+    [
+      -2,
+      5
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      -9,
+      4
+    ],
+    [
+      -5,
+      4
+    ],
+    [
+      -4,
+      4
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      -10,
+      3
+    ],
+    [
+      -6,
+      3
+    ],
+    [
+      -5,
+      3
+    ],
+    [
+      -3,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      9,
+      2
+    ],
+    [
+      -8,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      -4,
+      -1
+    ],
+    [
+      -5,
+      -2
+    ],
+    [
+      3,
+      -2
+    ],
+    [
+      -7,
+      -3
+    ],
+    [
+      -3,
+      -3
+    ],
+    [
+      3,
+      -3
+    ],
+    [
+      5,
+      -3
+    ],
+    [
+      6,
+      -3
+    ],
+    [
+      9,
+      -3
+    ],
+    [
+      -3,
+      -4
+    ],
+    [
+      3,
+      -4
+    ],
+    [
+      -4,
+      -5
+    ],
+    [
+      -3,
+      -5
+    ],
+    [
+      -8,
+      -6
+    ],
+    [
+      4,
+      -6
+    ],
+    [
+      -3,
+      -7
+    ],
+    [
+      5,
+      -7
+    ],
+    [
+      3,
+      -8
+    ],
+    [
+      -3,
+      -9
+    ],
+    [
+      -2,
+      -9
+    ]
+  ],
+  "AreaPerTest": 19627000000.0,
+  "DefectRecordSpec": [
+    "DEFECTID",
+    "XREL",
+    "YREL",
+    "XINDEX",
+    "YINDEX",
+    "XSIZE",
+    "YSIZE",
+    "DEFECTAREA",
+    "DSIZE",
+    "CLASSNUMBER",
+    "TEST",
+    "ROUGHBINNUMBER",
+    "FINEBINNUMBER",
+    "IMAGECOUNT",
+    "IMAGELIST"
+  ],
+  "DefectList": [
+    {
+      "DEFECTID": 1,
+      "XREL": 6107.0,
+      "YREL": 3957.0,
+      "XINDEX": 0,
+      "YINDEX": -10,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 2,
+      "XREL": 5740.0,
+      "YREL": 1846.0,
+      "XINDEX": 2,
+      "YINDEX": -8,
+      "XSIZE": 33.6,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 276.0,
+      "DSIZE": 344.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 3,
+      "XREL": 3031.0,
+      "YREL": 6513.0,
+      "XINDEX": -3,
+      "YINDEX": -8,
+      "XSIZE": 50.4,
+      "YSIZE": 34.2,
+      "DEFECTAREA": 1179.000064,
+      "DSIZE": 1173.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 4,
+      "XREL": 585.0,
+      "YREL": 5909.0,
+      "XINDEX": -6,
+      "YINDEX": -6,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 5,
+      "XREL": 2052.0,
+      "YREL": 3145.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 6,
+      "XREL": 2054.0,
+      "YREL": 3136.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 7,
+      "XREL": 2058.0,
+      "YREL": 3340.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 50.6,
+      "YSIZE": 297.8,
+      "DEFECTAREA": 9050.999808,
+      "DSIZE": 439.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 8,
+      "XREL": 2099.0,
+      "YREL": 3356.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 9,
+      "XREL": 2103.0,
+      "YREL": 3411.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 10,
+      "XREL": 2128.0,
+      "YREL": 2941.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 92.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 11,
+      "XREL": 2130.0,
+      "YREL": 2966.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 62.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 12,
+      "XREL": 2150.0,
+      "YREL": 3278.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 223.9,
+      "YSIZE": 461.0,
+      "DEFECTAREA": 26684.99968,
+      "DSIZE": 3555.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 13,
+      "XREL": 2156.0,
+      "YREL": 2910.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 138.0,
+      "DSIZE": 90.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 14,
+      "XREL": 2158.0,
+      "YREL": 2954.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 15,
+      "XREL": 2158.0,
+      "YREL": 2894.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 233.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 16,
+      "XREL": 2165.0,
+      "YREL": 2988.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 159.0,
+      "DSIZE": 99.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 17,
+      "XREL": 2165.0,
+      "YREL": 2920.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 18,
+      "XREL": 2172.0,
+      "YREL": 2850.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 60.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 19,
+      "XREL": 2179.0,
+      "YREL": 2952.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 20,
+      "XREL": 2186.0,
+      "YREL": 2781.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 21,
+      "XREL": 2192.0,
+      "YREL": 2791.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 22,
+      "XREL": 2195.0,
+      "YREL": 2887.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 71.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 23,
+      "XREL": 2195.0,
+      "YREL": 2914.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 24,
+      "XREL": 2199.0,
+      "YREL": 2961.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 94.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 25,
+      "XREL": 2205.0,
+      "YREL": 2973.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 26,
+      "XREL": 2221.0,
+      "YREL": 2838.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 27,
+      "XREL": 2221.0,
+      "YREL": 2870.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 119.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 28,
+      "XREL": 2232.0,
+      "YREL": 2709.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 46.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 29,
+      "XREL": 2232.0,
+      "YREL": 2760.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 56.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 30,
+      "XREL": 2235.0,
+      "YREL": 2848.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 31,
+      "XREL": 2236.0,
+      "YREL": 2986.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 84.0,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 669.0,
+      "DSIZE": 218.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 32,
+      "XREL": 2246.0,
+      "YREL": 2829.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 56.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 33,
+      "XREL": 2253.0,
+      "YREL": 3002.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 34,
+      "XREL": 2256.0,
+      "YREL": 2665.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 35,
+      "XREL": 2260.0,
+      "YREL": 2854.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 180.0,
+      "DSIZE": 97.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 36,
+      "XREL": 2260.0,
+      "YREL": 2766.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 37,
+      "XREL": 2262.0,
+      "YREL": 3067.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 382.0,
+      "DSIZE": 101.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 38,
+      "XREL": 2263.0,
+      "YREL": 2968.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 106.4,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 754.0,
+      "DSIZE": 270.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 39,
+      "XREL": 2267.0,
+      "YREL": 2707.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 40,
+      "XREL": 2269.0,
+      "YREL": 2779.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 56.0,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 255.0,
+      "DSIZE": 74.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 41,
+      "XREL": 2280.0,
+      "YREL": 2846.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 42,
+      "XREL": 2284.0,
+      "YREL": 2720.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 43,
+      "XREL": 2287.0,
+      "YREL": 2855.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 74.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 44,
+      "XREL": 2290.0,
+      "YREL": 2907.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 167.9,
+      "YSIZE": 89.2,
+      "DEFECTAREA": 4663.000064,
+      "DSIZE": 167.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 45,
+      "XREL": 2298.0,
+      "YREL": 2684.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 46,
+      "XREL": 2301.0,
+      "YREL": 2706.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 128.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 47,
+      "XREL": 2303.0,
+      "YREL": 3007.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 71.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 48,
+      "XREL": 2311.0,
+      "YREL": 2817.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 81.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 49,
+      "XREL": 2317.0,
+      "YREL": 2663.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 50,
+      "XREL": 2322.0,
+      "YREL": 2805.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 67.2,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 531.0,
+      "DSIZE": 170.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 51,
+      "XREL": 2325.0,
+      "YREL": 2762.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 72.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 52,
+      "XREL": 2328.0,
+      "YREL": 2960.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 104.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 53,
+      "XREL": 2332.0,
+      "YREL": 2779.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 44.8,
+      "YSIZE": 13.3,
+      "DEFECTAREA": 308.0,
+      "DSIZE": 103.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 54,
+      "XREL": 2340.0,
+      "YREL": 2833.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 100.8,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 552.0,
+      "DSIZE": 122.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 55,
+      "XREL": 2342.0,
+      "YREL": 2848.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 84.0,
+      "YSIZE": 19.0,
+      "DEFECTAREA": 541.0,
+      "DSIZE": 158.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 56,
+      "XREL": 2342.0,
+      "YREL": 2817.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 94.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 57,
+      "XREL": 2353.0,
+      "YREL": 2762.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 58,
+      "XREL": 2367.0,
+      "YREL": 2861.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 96.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 59,
+      "XREL": 2368.0,
+      "YREL": 2711.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 60,
+      "XREL": 2374.0,
+      "YREL": 2783.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 120.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 61,
+      "XREL": 2376.0,
+      "YREL": 2754.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 62,
+      "XREL": 2380.0,
+      "YREL": 2813.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 318.0,
+      "DSIZE": 122.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 63,
+      "XREL": 2382.0,
+      "YREL": 2694.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 85.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 64,
+      "XREL": 2384.0,
+      "YREL": 2737.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 50.4,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 329.0,
+      "DSIZE": 90.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 65,
+      "XREL": 2414.0,
+      "YREL": 2698.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 66,
+      "XREL": 2418.0,
+      "YREL": 2713.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 67,
+      "XREL": 2532.0,
+      "YREL": 2123.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 68,
+      "XREL": 2539.0,
+      "YREL": 2092.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 69,
+      "XREL": 2567.0,
+      "YREL": 2064.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 70,
+      "XREL": 2573.0,
+      "YREL": 2108.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 71,
+      "XREL": 2599.0,
+      "YREL": 2051.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 72,
+      "XREL": 2601.0,
+      "YREL": 2060.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 73,
+      "XREL": 2626.0,
+      "YREL": 2030.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 74,
+      "XREL": 2651.0,
+      "YREL": 1926.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 75,
+      "XREL": 2682.0,
+      "YREL": 2100.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 76,
+      "XREL": 2690.0,
+      "YREL": 1835.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 77,
+      "XREL": 2692.0,
+      "YREL": 1893.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 78,
+      "XREL": 2699.0,
+      "YREL": 1903.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 79,
+      "XREL": 2733.0,
+      "YREL": 2170.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 80,
+      "XREL": 2740.0,
+      "YREL": 1819.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 81,
+      "XREL": 2749.0,
+      "YREL": 2102.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 82,
+      "XREL": 2760.0,
+      "YREL": 1771.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 83,
+      "XREL": 2769.0,
+      "YREL": 1969.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 84,
+      "XREL": 2772.0,
+      "YREL": 2011.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 85,
+      "XREL": 2774.0,
+      "YREL": 2094.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 86,
+      "XREL": 2780.0,
+      "YREL": 2070.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 127.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 87,
+      "XREL": 2782.0,
+      "YREL": 2048.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 13.3,
+      "DEFECTAREA": 191.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 88,
+      "XREL": 2797.0,
+      "YREL": 1928.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 46.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 252,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 89,
+      "XREL": 2815.0,
+      "YREL": 1978.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 90,
+      "XREL": 2819.0,
+      "YREL": 1937.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 91,
+      "XREL": 2823.0,
+      "YREL": 1962.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 92,
+      "XREL": 2825.0,
+      "YREL": 1943.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 93,
+      "XREL": 2840.0,
+      "YREL": 1918.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 94,
+      "XREL": 2855.0,
+      "YREL": 1886.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 95,
+      "XREL": 2871.0,
+      "YREL": 1809.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 180.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 96,
+      "XREL": 2873.0,
+      "YREL": 1842.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 97,
+      "XREL": 2878.0,
+      "YREL": 1903.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 98,
+      "XREL": 2878.0,
+      "YREL": 1869.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 99,
+      "XREL": 2880.0,
+      "YREL": 1778.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 100,
+      "XREL": 2899.0,
+      "YREL": 1835.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 101,
+      "XREL": 2914.0,
+      "YREL": 1795.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 102,
+      "XREL": 2933.0,
+      "YREL": 1711.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 103,
+      "XREL": 2934.0,
+      "YREL": 1761.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 104,
+      "XREL": 2938.0,
+      "YREL": 1736.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 105,
+      "XREL": 6972.0,
+      "YREL": 6797.0,
+      "XINDEX": 8,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 256.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 106,
+      "XREL": 7244.0,
+      "YREL": 1028.0,
+      "XINDEX": -3,
+      "YINDEX": -2,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 107,
+      "XREL": 5108.0,
+      "YREL": 4470.0,
+      "XINDEX": 2,
+      "YINDEX": -1,
+      "XSIZE": 22.4,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 170.0,
+      "DSIZE": 723.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 108,
+      "XREL": 7209.0,
+      "YREL": 4728.0,
+      "XINDEX": 10,
+      "YINDEX": 0,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 109,
+      "XREL": 3022.0,
+      "YREL": 5862.0,
+      "XINDEX": -11,
+      "YINDEX": 1,
+      "XSIZE": 22.4,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 192.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 110,
+      "XREL": 2409.0,
+      "YREL": 806.0,
+      "XINDEX": -9,
+      "YINDEX": 2,
+      "XSIZE": 39.2,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 350.0,
+      "DSIZE": 378.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 111,
+      "XREL": 5026.0,
+      "YREL": 840.0,
+      "XINDEX": -9,
+      "YINDEX": 3,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 80.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 112,
+      "XREL": 2153.0,
+      "YREL": 756.0,
+      "XINDEX": -7,
+      "YINDEX": 3,
+      "XSIZE": 16.8,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 138.0,
+      "DSIZE": 163.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 113,
+      "XREL": 7422.0,
+      "YREL": 7225.0,
+      "XINDEX": 3,
+      "YINDEX": 3,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 229.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    }
+  ],
+  "SummarySpec": [
+    "TESTNO",
+    "NDEFECT",
+    "DEFDENSITY",
+    "NDIE",
+    "NDEFDIE"
+  ],
+  "SummaryList": [
+    {
+      "TESTNO": 1,
+      "NDEFECT": 113,
+      "DEFDENSITY": 0.57569998503,
+      "NDIE": 398,
+      "NDEFDIE": 14
+    }
+  ],
+  "EndOfFile": true
+},
+{
+  "FileVersion": [
+    1,
+    2
+  ],
+  "FileTimestamp": "05-30-17 12:03:49",
+  "InspectionStationID": [
+    "NONE",
+    "AIT",
+    "YE02AIT3"
+  ],
+  "SampleType": "WAFER",
+  "ResultTimestamp": "02-09-17 12:11:07",
+  "LotID": "TM68071_1L",
+  "SampleSize": [
+    1,
+    200
+  ],
+  "DeviceID": "N54E",
+  "SetupID": {
+    "Device": "N54E",
+    "Timestamp": "02-09-17 12:11:07"
+  },
+  "StepID": "CL_SPACR_A7",
+  "SampleOrientationMarkType": "NOTCH",
+  "OrientationMarkLocation": "UP",
+  "DiePitch": [
+    8298.0,
+    7729.0
+  ],
+  "DieOrigin": [
+    0.0,
+    0.0
+  ],
+  "WaferID": 21,
+  "Slot": 23,
+  "SampleCenterLocation": [
+    -302.0,
+    15378.0
+  ],
+  "ClassLookup": {
+    "0": "UNCLASSED",
+    "1": "SEM_RECLASS",
+    "2": "NUISANCE",
+    "4": "PARTICLE_K",
+    "5": "PAT_OTHER_K",
+    "6": "INFILM_PART_K",
+    "7": "PAT_PLUS_K",
+    "8": "OTHER_K",
+    "9": "CONT_VIA_K",
+    "10": "SCRATCH_K",
+    "11": "TEAROUT_K",
+    "12": "LIFTING_K",
+    "13": "ARCING_K",
+    "14": "PAT_FLAT_K",
+    "15": "NECKING_K",
+    "16": "PLANAR_BLK_K",
+    "17": "CROP_CIR_K",
+    "18": "CASTLE_K",
+    "19": "CORR_SL",
+    "20": "CORR_BP",
+    "28": "MIC_SCR_K",
+    "30": "OBSOLETE_BAD_CAPTURE",
+    "31": "OPTICAL_NO_SEM",
+    "50": "MISCLASS",
+    "104": "PARTICLE_NK",
+    "105": "PAT_OTHER_NK",
+    "106": "INFILM_PART_NK",
+    "107": "PAT_PLUS_NK",
+    "108": "OTHER_NK",
+    "109": "CONT_VIA_NK",
+    "114": "PAT_FLAT_NK",
+    "116": "PLANAR_BLK_NK",
+    "117": "CROP_CIR_NK",
+    "118": "CASTLE_NK",
+    "122": "CORR_LL",
+    "123": "POINT_NK",
+    "124": "W_FLAKES",
+    "125": "CONES_NK",
+    "126": "ELBOWS_NK",
+    "127": "POLY_SPOT_NK",
+    "129": "MTL_ORG_NK",
+    "132": "MTL_RES_NK",
+    "201": "BLOCK",
+    "202": "MULTI_FULL_COL",
+    "203": "FULL_COL",
+    "204": "MULTI_FULL_ROW",
+    "205": "FULL_ROW",
+    "206": "MULTI_PARTIAL_COL",
+    "207": "PARTIAL_COL",
+    "208": "MULTI_PARTIAL_ROW",
+    "209": "PARTIAL_ROW",
+    "210": "DOUBLE_BIT_COL",
+    "211": "DOUBLE_BIT_ROW",
+    "212": "SINGLE_BIT",
+    "213": "CLUSTER",
+    "218": "PARTIAL_BLOCK",
+    "220": "CROSS",
+    "222": "BLOCK_F",
+    "223": "MULTI_FULL_COL_F",
+    "224": "FULL_COL_F",
+    "225": "MULTI_FULL_ROW_F",
+    "226": "FULL_ROW_F",
+    "227": "MULTI_PARTIAL_COL_F",
+    "228": "PARTIAL_COL_F",
+    "229": "MULTI_PARTIAL_ROW_F",
+    "230": "PARTIAL_ROW_F",
+    "231": "DOUBLE_BIT_COL_F",
+    "232": "DOUBLE_BIT_ROW_F",
+    "233": "SINGLE_BIT_F",
+    "234": "CLUSTER_F",
+    "239": "PARTIAL_BLOCK_F",
+    "241": "CROSS_F",
+    "243": "EVERY_8_FAIL",
+    "244": "EVERY_8_FAIL_F",
+    "245": "EVERY_32_FAIL",
+    "246": "EVERY_32_FAIL_F",
+    "247": "EVERY_64_FAIL",
+    "248": "EVERY_64_FAIL_F",
+    "501": "NO_DEFECT_FOUND",
+    "502": "STAINING_OR_ROUGH_METAL",
+    "503": "CONTAMINATION",
+    "504": "COLOR_VARIATION",
+    "505": "SCRATCH",
+    "506": "PROBE_DEFECTIVITY",
+    "507": "POOR_SPIN",
+    "508": "STRINGER",
+    "509": "VEIL:509",
+    "510": "SCUMMING",
+    "511": "PATTERN_BLOW-OUT",
+    "512": "PATTERN_LIFTING",
+    "513": "PATTERN_MISSING",
+    "514": "PREVIOUS_CONTAMINATION",
+    "515": "PREVIOUS_SCRATCH",
+    "516": "PREVIOUS_POOR_SPIN",
+    "517": "PREVIOUS_PATTERN_LIFTING",
+    "518": "PREVIOUS_PATTERN_MISSING",
+    "519": "RESIDUAL_METAL",
+    "520": "RESIDUAL_PASSIVATION",
+    "521": "INCOMPLETE_STRIP",
+    "522": "RETICULATION",
+    "523": "VOID:523",
+    "524": "REPEATER",
+    "525": "WRONG_RETICLE",
+    "526": "MISALIGNED",
+    "527": "CORNER_DEFECT",
+    "528": "BOLD_PLMD_EDGE",
+    "529": "FOREIGN_MATTER",
+    "530": "PLMD_OR_RESIST_JUNK",
+    "531": "RECESSED_VIAS",
+    "532": "DARK_PAD_WITH_LIGHT_CENTER",
+    "533": "PEPPER",
+    "534": "DOME_DEFECTS",
+    "535": "MICROBUBBLE"
+  },
+  "OrientationInstructions": "",
+  "InspectionTest": 1,
+  "SampleTestPlan": [
+    [
+      -7,
+      10
+    ],
+    [
+      -6,
+      10
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      -7,
+      9
+    ],
+    [
+      -5,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      -9,
+      7
+    ],
+    [
+      -7,
+      7
+    ],
+    [
+      -2,
+      7
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      -11,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      -8,
+      3
+    ],
+    [
+      -1,
+      3
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      -6,
+      2
+    ],
+    [
+      -4,
+      1
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      -7,
+      0
+    ],
+    [
+      -6,
+      0
+    ],
+    [
+      -4,
+      0
+    ],
+    [
+      -3,
+      0
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      9,
+      -1
+    ],
+    [
+      10,
+      -1
+    ],
+    [
+      -2,
+      -2
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      -10,
+      -3
+    ],
+    [
+      -4,
+      -4
+    ],
+    [
+      -2,
+      -4
+    ],
+    [
+      -9,
+      -5
+    ],
+    [
+      -8,
+      -5
+    ],
+    [
+      -7,
+      -5
+    ],
+    [
+      -5,
+      -5
+    ],
+    [
+      -1,
+      -5
+    ],
+    [
+      0,
+      -5
+    ],
+    [
+      7,
+      -5
+    ],
+    [
+      8,
+      -5
+    ],
+    [
+      -3,
+      -6
+    ],
+    [
+      1,
+      -6
+    ],
+    [
+      -5,
+      -7
+    ],
+    [
+      -2,
+      -8
+    ],
+    [
+      -2,
+      -10
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      4,
+      12
+    ],
+    [
+      -3,
+      11
+    ],
+    [
+      0,
+      11
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      -8,
+      8
+    ],
+    [
+      -2,
+      8
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      -5,
+      7
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      -2,
+      6
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      -2,
+      4
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      -9,
+      3
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      -9,
+      1
+    ],
+    [
+      -1,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      -9,
+      0
+    ],
+    [
+      6,
+      0
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      -6,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -8,
+      -2
+    ],
+    [
+      2,
+      -2
+    ],
+    [
+      4,
+      -2
+    ],
+    [
+      5,
+      -2
+    ],
+    [
+      -4,
+      -3
+    ],
+    [
+      1,
+      -3
+    ],
+    [
+      -7,
+      -4
+    ],
+    [
+      3,
+      -5
+    ],
+    [
+      -6,
+      -6
+    ],
+    [
+      -1,
+      -6
+    ],
+    [
+      3,
+      -6
+    ],
+    [
+      -6,
+      -7
+    ],
+    [
+      4,
+      -7
+    ],
+    [
+      -3,
+      -8
+    ],
+    [
+      1,
+      -10
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      -5,
+      12
+    ],
+    [
+      -5,
+      10
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      -6,
+      7
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      -1,
+      6
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      -9,
+      5
+    ],
+    [
+      -4,
+      5
+    ],
+    [
+      -3,
+      5
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      -3,
+      3
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -5,
+      0
+    ],
+    [
+      -2,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      9,
+      0
+    ],
+    [
+      -11,
+      -1
+    ],
+    [
+      -5,
+      -1
+    ],
+    [
+      -3,
+      -1
+    ],
+    [
+      2,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      8,
+      -1
+    ],
+    [
+      -1,
+      -2
+    ],
+    [
+      7,
+      -2
+    ],
+    [
+      -9,
+      -4
+    ],
+    [
+      -1,
+      -4
+    ],
+    [
+      1,
+      -4
+    ],
+    [
+      4,
+      -4
+    ],
+    [
+      -7,
+      -6
+    ],
+    [
+      6,
+      -6
+    ],
+    [
+      0,
+      -7
+    ],
+    [
+      4,
+      -8
+    ],
+    [
+      5,
+      -8
+    ],
+    [
+      -1,
+      -9
+    ],
+    [
+      3,
+      -9
+    ],
+    [
+      -1,
+      13
+    ],
+    [
+      -4,
+      11
+    ],
+    [
+      -1,
+      11
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      -9,
+      8
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      -3,
+      7
+    ],
+    [
+      -1,
+      7
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      -10,
+      6
+    ],
+    [
+      -9,
+      6
+    ],
+    [
+      -5,
+      6
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      -10,
+      5
+    ],
+    [
+      -8,
+      5
+    ],
+    [
+      -1,
+      5
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      -10,
+      4
+    ],
+    [
+      -7,
+      4
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      -10,
+      1
+    ],
+    [
+      -7,
+      1
+    ],
+    [
+      -3,
+      1
+    ],
+    [
+      -1,
+      0
+    ],
+    [
+      -10,
+      -1
+    ],
+    [
+      -9,
+      -1
+    ],
+    [
+      -7,
+      -1
+    ],
+    [
+      -7,
+      -2
+    ],
+    [
+      1,
+      -2
+    ],
+    [
+      6,
+      -2
+    ],
+    [
+      8,
+      -2
+    ],
+    [
+      -8,
+      -3
+    ],
+    [
+      -5,
+      -3
+    ],
+    [
+      0,
+      -3
+    ],
+    [
+      -8,
+      -4
+    ],
+    [
+      -6,
+      -4
+    ],
+    [
+      2,
+      -5
+    ],
+    [
+      -2,
+      -6
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      5,
+      -6
+    ],
+    [
+      7,
+      -6
+    ],
+    [
+      -2,
+      -7
+    ],
+    [
+      -1,
+      -7
+    ],
+    [
+      -4,
+      -9
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      1,
+      -9
+    ],
+    [
+      1,
+      12
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      -5,
+      11
+    ],
+    [
+      2,
+      10
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      -5,
+      8
+    ],
+    [
+      -10,
+      7
+    ],
+    [
+      -7,
+      6
+    ],
+    [
+      -6,
+      6
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      -8,
+      4
+    ],
+    [
+      -6,
+      4
+    ],
+    [
+      -3,
+      4
+    ],
+    [
+      -1,
+      4
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      -4,
+      3
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      -10,
+      2
+    ],
+    [
+      -7,
+      2
+    ],
+    [
+      -2,
+      2
+    ],
+    [
+      -1,
+      2
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      -11,
+      1
+    ],
+    [
+      -5,
+      1
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      8,
+      0
+    ],
+    [
+      5,
+      -1
+    ],
+    [
+      7,
+      -1
+    ],
+    [
+      -9,
+      -2
+    ],
+    [
+      -4,
+      -2
+    ],
+    [
+      -9,
+      -3
+    ],
+    [
+      -6,
+      -3
+    ],
+    [
+      2,
+      -3
+    ],
+    [
+      8,
+      -3
+    ],
+    [
+      -10,
+      -4
+    ],
+    [
+      -5,
+      -4
+    ],
+    [
+      5,
+      -4
+    ],
+    [
+      6,
+      -4
+    ],
+    [
+      -6,
+      -5
+    ],
+    [
+      1,
+      -7
+    ],
+    [
+      -6,
+      -8
+    ],
+    [
+      -5,
+      -8
+    ],
+    [
+      2,
+      -8
+    ],
+    [
+      -5,
+      -9
+    ],
+    [
+      4,
+      -9
+    ],
+    [
+      -1,
+      -10
+    ],
+    [
+      -2,
+      12
+    ],
+    [
+      0,
+      12
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      -4,
+      10
+    ],
+    [
+      -4,
+      9
+    ],
+    [
+      -2,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      -6,
+      8
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      -4,
+      7
+    ],
+    [
+      -7,
+      5
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      -5,
+      2
+    ],
+    [
+      -4,
+      2
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      -6,
+      1
+    ],
+    [
+      -2,
+      1
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      -11,
+      0
+    ],
+    [
+      -2,
+      -1
+    ],
+    [
+      -3,
+      -2
+    ],
+    [
+      4,
+      -3
+    ],
+    [
+      7,
+      -3
+    ],
+    [
+      7,
+      -4
+    ],
+    [
+      8,
+      -4
+    ],
+    [
+      -2,
+      -5
+    ],
+    [
+      1,
+      -5
+    ],
+    [
+      -5,
+      -6
+    ],
+    [
+      2,
+      -7
+    ],
+    [
+      6,
+      -7
+    ],
+    [
+      -4,
+      -8
+    ],
+    [
+      -1,
+      -8
+    ],
+    [
+      0,
+      -8
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      -1,
+      12
+    ],
+    [
+      -6,
+      11
+    ],
+    [
+      1,
+      11
+    ],
+    [
+      3,
+      11
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      5,
+      11
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      -8,
+      9
+    ],
+    [
+      -6,
+      9
+    ],
+    [
+      -1,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      -7,
+      8
+    ],
+    [
+      -1,
+      8
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      -8,
+      7
+    ],
+    [
+      -3,
+      6
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      -6,
+      5
+    ],
+    [
+      -5,
+      5
+    ],
+    [
+      7,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      -11,
+      3
+    ],
+    [
+      -7,
+      3
+    ],
+    [
+      -2,
+      3
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      -11,
+      2
+    ],
+    [
+      -9,
+      2
+    ],
+    [
+      -8,
+      2
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      -10,
+      0
+    ],
+    [
+      -8,
+      0
+    ],
+    [
+      -8,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      6,
+      -1
+    ],
+    [
+      -10,
+      -2
+    ],
+    [
+      -6,
+      -2
+    ],
+    [
+      9,
+      -2
+    ],
+    [
+      -2,
+      -3
+    ],
+    [
+      -1,
+      -3
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      2,
+      -4
+    ],
+    [
+      4,
+      -5
+    ],
+    [
+      5,
+      -5
+    ],
+    [
+      6,
+      -5
+    ],
+    [
+      -4,
+      -6
+    ],
+    [
+      2,
+      -6
+    ],
+    [
+      -7,
+      -7
+    ],
+    [
+      -4,
+      -7
+    ],
+    [
+      3,
+      -7
+    ],
+    [
+      1,
+      -8
+    ],
+    [
+      2,
+      -9
+    ],
+    [
+      0,
+      -10
+    ],
+    [
+      -2,
+      13
+    ],
+    [
+      -4,
+      12
+    ],
+    [
+      -3,
+      12
+    ],
+    [
+      -2,
+      11
+    ],
+    [
+      -3,
+      10
+    ],
+    [
+      -2,
+      10
+    ],
+    [
+      -1,
+      10
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      -3,
+      9
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      -4,
+      8
+    ],
+    [
+      -3,
+      8
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      -8,
+      6
+    ],
+    [
+      -4,
+      6
+    ],
+    [
+      -2,
+      5
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      -9,
+      4
+    ],
+    [
+      -5,
+      4
+    ],
+    [
+      -4,
+      4
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      -10,
+      3
+    ],
+    [
+      -6,
+      3
+    ],
+    [
+      -5,
+      3
+    ],
+    [
+      -3,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      9,
+      2
+    ],
+    [
+      -8,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      -4,
+      -1
+    ],
+    [
+      -5,
+      -2
+    ],
+    [
+      3,
+      -2
+    ],
+    [
+      -7,
+      -3
+    ],
+    [
+      -3,
+      -3
+    ],
+    [
+      3,
+      -3
+    ],
+    [
+      5,
+      -3
+    ],
+    [
+      6,
+      -3
+    ],
+    [
+      9,
+      -3
+    ],
+    [
+      -3,
+      -4
+    ],
+    [
+      3,
+      -4
+    ],
+    [
+      -4,
+      -5
+    ],
+    [
+      -3,
+      -5
+    ],
+    [
+      -8,
+      -6
+    ],
+    [
+      4,
+      -6
+    ],
+    [
+      -3,
+      -7
+    ],
+    [
+      5,
+      -7
+    ],
+    [
+      3,
+      -8
+    ],
+    [
+      -3,
+      -9
+    ],
+    [
+      -2,
+      -9
+    ]
+  ],
+  "AreaPerTest": 19627000000.0,
+  "DefectRecordSpec": [
+    "DEFECTID",
+    "XREL",
+    "YREL",
+    "XINDEX",
+    "YINDEX",
+    "XSIZE",
+    "YSIZE",
+    "DEFECTAREA",
+    "DSIZE",
+    "CLASSNUMBER",
+    "TEST",
+    "ROUGHBINNUMBER",
+    "FINEBINNUMBER",
+    "IMAGECOUNT",
+    "IMAGELIST"
+  ],
+  "DefectList": [
+    {
+      "DEFECTID": 1,
+      "XREL": 6107.0,
+      "YREL": 3957.0,
+      "XINDEX": 0,
+      "YINDEX": -10,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 2,
+      "XREL": 5740.0,
+      "YREL": 1846.0,
+      "XINDEX": 2,
+      "YINDEX": -8,
+      "XSIZE": 33.6,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 276.0,
+      "DSIZE": 344.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 3,
+      "XREL": 3031.0,
+      "YREL": 6513.0,
+      "XINDEX": -3,
+      "YINDEX": -8,
+      "XSIZE": 50.4,
+      "YSIZE": 34.2,
+      "DEFECTAREA": 1179.000064,
+      "DSIZE": 1173.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 4,
+      "XREL": 585.0,
+      "YREL": 5909.0,
+      "XINDEX": -6,
+      "YINDEX": -6,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 5,
+      "XREL": 2052.0,
+      "YREL": 3145.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 6,
+      "XREL": 2054.0,
+      "YREL": 3136.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 7,
+      "XREL": 2058.0,
+      "YREL": 3340.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 50.6,
+      "YSIZE": 297.8,
+      "DEFECTAREA": 9050.999808,
+      "DSIZE": 439.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 8,
+      "XREL": 2099.0,
+      "YREL": 3356.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 9,
+      "XREL": 2103.0,
+      "YREL": 3411.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 10,
+      "XREL": 2128.0,
+      "YREL": 2941.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 92.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 11,
+      "XREL": 2130.0,
+      "YREL": 2966.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 62.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 12,
+      "XREL": 2150.0,
+      "YREL": 3278.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 223.9,
+      "YSIZE": 461.0,
+      "DEFECTAREA": 26684.99968,
+      "DSIZE": 3555.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 13,
+      "XREL": 2156.0,
+      "YREL": 2910.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 138.0,
+      "DSIZE": 90.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 14,
+      "XREL": 2158.0,
+      "YREL": 2954.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 15,
+      "XREL": 2158.0,
+      "YREL": 2894.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 233.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 16,
+      "XREL": 2165.0,
+      "YREL": 2988.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 159.0,
+      "DSIZE": 99.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 17,
+      "XREL": 2165.0,
+      "YREL": 2920.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 18,
+      "XREL": 2172.0,
+      "YREL": 2850.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 60.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 19,
+      "XREL": 2179.0,
+      "YREL": 2952.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 20,
+      "XREL": 2186.0,
+      "YREL": 2781.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 21,
+      "XREL": 2192.0,
+      "YREL": 2791.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 22,
+      "XREL": 2195.0,
+      "YREL": 2887.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 71.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 23,
+      "XREL": 2195.0,
+      "YREL": 2914.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 24,
+      "XREL": 2199.0,
+      "YREL": 2961.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 94.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 25,
+      "XREL": 2205.0,
+      "YREL": 2973.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 26,
+      "XREL": 2221.0,
+      "YREL": 2838.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 27,
+      "XREL": 2221.0,
+      "YREL": 2870.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 119.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 28,
+      "XREL": 2232.0,
+      "YREL": 2709.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 46.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 29,
+      "XREL": 2232.0,
+      "YREL": 2760.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 56.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 30,
+      "XREL": 2235.0,
+      "YREL": 2848.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 31,
+      "XREL": 2236.0,
+      "YREL": 2986.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 84.0,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 669.0,
+      "DSIZE": 218.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 32,
+      "XREL": 2246.0,
+      "YREL": 2829.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 56.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 33,
+      "XREL": 2253.0,
+      "YREL": 3002.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 34,
+      "XREL": 2256.0,
+      "YREL": 2665.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 35,
+      "XREL": 2260.0,
+      "YREL": 2854.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 180.0,
+      "DSIZE": 97.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 36,
+      "XREL": 2260.0,
+      "YREL": 2766.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 37,
+      "XREL": 2262.0,
+      "YREL": 3067.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 382.0,
+      "DSIZE": 101.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 38,
+      "XREL": 2263.0,
+      "YREL": 2968.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 106.4,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 754.0,
+      "DSIZE": 270.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 39,
+      "XREL": 2267.0,
+      "YREL": 2707.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 40,
+      "XREL": 2269.0,
+      "YREL": 2779.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 56.0,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 255.0,
+      "DSIZE": 74.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 41,
+      "XREL": 2280.0,
+      "YREL": 2846.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 42,
+      "XREL": 2284.0,
+      "YREL": 2720.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 43,
+      "XREL": 2287.0,
+      "YREL": 2855.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 74.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 44,
+      "XREL": 2290.0,
+      "YREL": 2907.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 167.9,
+      "YSIZE": 89.2,
+      "DEFECTAREA": 4663.000064,
+      "DSIZE": 167.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 45,
+      "XREL": 2298.0,
+      "YREL": 2684.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 46,
+      "XREL": 2301.0,
+      "YREL": 2706.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 128.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 47,
+      "XREL": 2303.0,
+      "YREL": 3007.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 71.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 48,
+      "XREL": 2311.0,
+      "YREL": 2817.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 81.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 49,
+      "XREL": 2317.0,
+      "YREL": 2663.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 50,
+      "XREL": 2322.0,
+      "YREL": 2805.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 67.2,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 531.0,
+      "DSIZE": 170.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 51,
+      "XREL": 2325.0,
+      "YREL": 2762.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 72.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 52,
+      "XREL": 2328.0,
+      "YREL": 2960.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 104.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 53,
+      "XREL": 2332.0,
+      "YREL": 2779.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 44.8,
+      "YSIZE": 13.3,
+      "DEFECTAREA": 308.0,
+      "DSIZE": 103.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 54,
+      "XREL": 2340.0,
+      "YREL": 2833.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 100.8,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 552.0,
+      "DSIZE": 122.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 55,
+      "XREL": 2342.0,
+      "YREL": 2848.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 84.0,
+      "YSIZE": 19.0,
+      "DEFECTAREA": 541.0,
+      "DSIZE": 158.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 56,
+      "XREL": 2342.0,
+      "YREL": 2817.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 94.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 57,
+      "XREL": 2353.0,
+      "YREL": 2762.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 58,
+      "XREL": 2367.0,
+      "YREL": 2861.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 96.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 59,
+      "XREL": 2368.0,
+      "YREL": 2711.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 60,
+      "XREL": 2374.0,
+      "YREL": 2783.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 120.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 61,
+      "XREL": 2376.0,
+      "YREL": 2754.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 62,
+      "XREL": 2380.0,
+      "YREL": 2813.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 318.0,
+      "DSIZE": 122.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 63,
+      "XREL": 2382.0,
+      "YREL": 2694.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 85.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 64,
+      "XREL": 2384.0,
+      "YREL": 2737.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 50.4,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 329.0,
+      "DSIZE": 90.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 65,
+      "XREL": 2414.0,
+      "YREL": 2698.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 66,
+      "XREL": 2418.0,
+      "YREL": 2713.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 67,
+      "XREL": 2532.0,
+      "YREL": 2123.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 68,
+      "XREL": 2539.0,
+      "YREL": 2092.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 69,
+      "XREL": 2567.0,
+      "YREL": 2064.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 70,
+      "XREL": 2573.0,
+      "YREL": 2108.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 71,
+      "XREL": 2599.0,
+      "YREL": 2051.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 72,
+      "XREL": 2601.0,
+      "YREL": 2060.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 73,
+      "XREL": 2626.0,
+      "YREL": 2030.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 74,
+      "XREL": 2651.0,
+      "YREL": 1926.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 75,
+      "XREL": 2682.0,
+      "YREL": 2100.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 76,
+      "XREL": 2690.0,
+      "YREL": 1835.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 77,
+      "XREL": 2692.0,
+      "YREL": 1893.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 78,
+      "XREL": 2699.0,
+      "YREL": 1903.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 79,
+      "XREL": 2733.0,
+      "YREL": 2170.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 80,
+      "XREL": 2740.0,
+      "YREL": 1819.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 81,
+      "XREL": 2749.0,
+      "YREL": 2102.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 82,
+      "XREL": 2760.0,
+      "YREL": 1771.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 83,
+      "XREL": 2769.0,
+      "YREL": 1969.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 84,
+      "XREL": 2772.0,
+      "YREL": 2011.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 85,
+      "XREL": 2774.0,
+      "YREL": 2094.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 86,
+      "XREL": 2780.0,
+      "YREL": 2070.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 127.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 87,
+      "XREL": 2782.0,
+      "YREL": 2048.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 13.3,
+      "DEFECTAREA": 191.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 88,
+      "XREL": 2797.0,
+      "YREL": 1928.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 46.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 252,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 89,
+      "XREL": 2815.0,
+      "YREL": 1978.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 90,
+      "XREL": 2819.0,
+      "YREL": 1937.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 91,
+      "XREL": 2823.0,
+      "YREL": 1962.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 92,
+      "XREL": 2825.0,
+      "YREL": 1943.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 93,
+      "XREL": 2840.0,
+      "YREL": 1918.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 94,
+      "XREL": 2855.0,
+      "YREL": 1886.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 95,
+      "XREL": 2871.0,
+      "YREL": 1809.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 180.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 96,
+      "XREL": 2873.0,
+      "YREL": 1842.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 97,
+      "XREL": 2878.0,
+      "YREL": 1903.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 98,
+      "XREL": 2878.0,
+      "YREL": 1869.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 99,
+      "XREL": 2880.0,
+      "YREL": 1778.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 100,
+      "XREL": 2899.0,
+      "YREL": 1835.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 101,
+      "XREL": 2914.0,
+      "YREL": 1795.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 102,
+      "XREL": 2933.0,
+      "YREL": 1711.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 103,
+      "XREL": 2934.0,
+      "YREL": 1761.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 104,
+      "XREL": 2938.0,
+      "YREL": 1736.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 105,
+      "XREL": 6972.0,
+      "YREL": 6797.0,
+      "XINDEX": 8,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 256.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 106,
+      "XREL": 7244.0,
+      "YREL": 1028.0,
+      "XINDEX": -3,
+      "YINDEX": -2,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 107,
+      "XREL": 5108.0,
+      "YREL": 4470.0,
+      "XINDEX": 2,
+      "YINDEX": -1,
+      "XSIZE": 22.4,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 170.0,
+      "DSIZE": 723.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 108,
+      "XREL": 7209.0,
+      "YREL": 4728.0,
+      "XINDEX": 10,
+      "YINDEX": 0,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 109,
+      "XREL": 3022.0,
+      "YREL": 5862.0,
+      "XINDEX": -11,
+      "YINDEX": 1,
+      "XSIZE": 22.4,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 192.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 110,
+      "XREL": 2409.0,
+      "YREL": 806.0,
+      "XINDEX": -9,
+      "YINDEX": 2,
+      "XSIZE": 39.2,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 350.0,
+      "DSIZE": 378.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 111,
+      "XREL": 5026.0,
+      "YREL": 840.0,
+      "XINDEX": -9,
+      "YINDEX": 3,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 80.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 112,
+      "XREL": 2153.0,
+      "YREL": 756.0,
+      "XINDEX": -7,
+      "YINDEX": 3,
+      "XSIZE": 16.8,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 138.0,
+      "DSIZE": 163.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 113,
+      "XREL": 7422.0,
+      "YREL": 7225.0,
+      "XINDEX": 3,
+      "YINDEX": 3,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 229.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    }
+  ],
+  "SummarySpec": [
+    "TESTNO",
+    "NDEFECT",
+    "DEFDENSITY",
+    "NDIE",
+    "NDEFDIE"
+  ],
+  "SummaryList": [
+    {
+      "TESTNO": 1,
+      "NDEFECT": 113,
+      "DEFDENSITY": 0.57569998503,
+      "NDIE": 398,
+      "NDEFDIE": 14
+    }
+  ],
+  "EndOfFile": true
+},
+{
+  "FileVersion": [
+    1,
+    2
+  ],
+  "FileTimestamp": "05-30-17 12:03:49",
+  "InspectionStationID": [
+    "NONE",
+    "AIT",
+    "YE02AIT3"
+  ],
+  "SampleType": "WAFER",
+  "ResultTimestamp": "02-09-17 12:11:07",
+  "LotID": "TM68071_1L",
+  "SampleSize": [
+    1,
+    200
+  ],
+  "DeviceID": "N54E",
+  "SetupID": {
+    "Device": "N54E",
+    "Timestamp": "02-09-17 12:11:07"
+  },
+  "StepID": "CL_SPACR_A7",
+  "SampleOrientationMarkType": "NOTCH",
+  "OrientationMarkLocation": "UP",
+  "DiePitch": [
+    8298.0,
+    7729.0
+  ],
+  "DieOrigin": [
+    0.0,
+    0.0
+  ],
+  "WaferID": 23,
+  "Slot": 23,
+  "SampleCenterLocation": [
+    -302.0,
+    15378.0
+  ],
+  "ClassLookup": {
+    "0": "UNCLASSED",
+    "1": "SEM_RECLASS",
+    "2": "NUISANCE",
+    "4": "PARTICLE_K",
+    "5": "PAT_OTHER_K",
+    "6": "INFILM_PART_K",
+    "7": "PAT_PLUS_K",
+    "8": "OTHER_K",
+    "9": "CONT_VIA_K",
+    "10": "SCRATCH_K",
+    "11": "TEAROUT_K",
+    "12": "LIFTING_K",
+    "13": "ARCING_K",
+    "14": "PAT_FLAT_K",
+    "15": "NECKING_K",
+    "16": "PLANAR_BLK_K",
+    "17": "CROP_CIR_K",
+    "18": "CASTLE_K",
+    "19": "CORR_SL",
+    "20": "CORR_BP",
+    "28": "MIC_SCR_K",
+    "30": "OBSOLETE_BAD_CAPTURE",
+    "31": "OPTICAL_NO_SEM",
+    "50": "MISCLASS",
+    "104": "PARTICLE_NK",
+    "105": "PAT_OTHER_NK",
+    "106": "INFILM_PART_NK",
+    "107": "PAT_PLUS_NK",
+    "108": "OTHER_NK",
+    "109": "CONT_VIA_NK",
+    "114": "PAT_FLAT_NK",
+    "116": "PLANAR_BLK_NK",
+    "117": "CROP_CIR_NK",
+    "118": "CASTLE_NK",
+    "122": "CORR_LL",
+    "123": "POINT_NK",
+    "124": "W_FLAKES",
+    "125": "CONES_NK",
+    "126": "ELBOWS_NK",
+    "127": "POLY_SPOT_NK",
+    "129": "MTL_ORG_NK",
+    "132": "MTL_RES_NK",
+    "201": "BLOCK",
+    "202": "MULTI_FULL_COL",
+    "203": "FULL_COL",
+    "204": "MULTI_FULL_ROW",
+    "205": "FULL_ROW",
+    "206": "MULTI_PARTIAL_COL",
+    "207": "PARTIAL_COL",
+    "208": "MULTI_PARTIAL_ROW",
+    "209": "PARTIAL_ROW",
+    "210": "DOUBLE_BIT_COL",
+    "211": "DOUBLE_BIT_ROW",
+    "212": "SINGLE_BIT",
+    "213": "CLUSTER",
+    "218": "PARTIAL_BLOCK",
+    "220": "CROSS",
+    "222": "BLOCK_F",
+    "223": "MULTI_FULL_COL_F",
+    "224": "FULL_COL_F",
+    "225": "MULTI_FULL_ROW_F",
+    "226": "FULL_ROW_F",
+    "227": "MULTI_PARTIAL_COL_F",
+    "228": "PARTIAL_COL_F",
+    "229": "MULTI_PARTIAL_ROW_F",
+    "230": "PARTIAL_ROW_F",
+    "231": "DOUBLE_BIT_COL_F",
+    "232": "DOUBLE_BIT_ROW_F",
+    "233": "SINGLE_BIT_F",
+    "234": "CLUSTER_F",
+    "239": "PARTIAL_BLOCK_F",
+    "241": "CROSS_F",
+    "243": "EVERY_8_FAIL",
+    "244": "EVERY_8_FAIL_F",
+    "245": "EVERY_32_FAIL",
+    "246": "EVERY_32_FAIL_F",
+    "247": "EVERY_64_FAIL",
+    "248": "EVERY_64_FAIL_F",
+    "501": "NO_DEFECT_FOUND",
+    "502": "STAINING_OR_ROUGH_METAL",
+    "503": "CONTAMINATION",
+    "504": "COLOR_VARIATION",
+    "505": "SCRATCH",
+    "506": "PROBE_DEFECTIVITY",
+    "507": "POOR_SPIN",
+    "508": "STRINGER",
+    "509": "VEIL:509",
+    "510": "SCUMMING",
+    "511": "PATTERN_BLOW-OUT",
+    "512": "PATTERN_LIFTING",
+    "513": "PATTERN_MISSING",
+    "514": "PREVIOUS_CONTAMINATION",
+    "515": "PREVIOUS_SCRATCH",
+    "516": "PREVIOUS_POOR_SPIN",
+    "517": "PREVIOUS_PATTERN_LIFTING",
+    "518": "PREVIOUS_PATTERN_MISSING",
+    "519": "RESIDUAL_METAL",
+    "520": "RESIDUAL_PASSIVATION",
+    "521": "INCOMPLETE_STRIP",
+    "522": "RETICULATION",
+    "523": "VOID:523",
+    "524": "REPEATER",
+    "525": "WRONG_RETICLE",
+    "526": "MISALIGNED",
+    "527": "CORNER_DEFECT",
+    "528": "BOLD_PLMD_EDGE",
+    "529": "FOREIGN_MATTER",
+    "530": "PLMD_OR_RESIST_JUNK",
+    "531": "RECESSED_VIAS",
+    "532": "DARK_PAD_WITH_LIGHT_CENTER",
+    "533": "PEPPER",
+    "534": "DOME_DEFECTS",
+    "535": "MICROBUBBLE"
+  },
+  "OrientationInstructions": "",
+  "InspectionTest": 1,
+  "SampleTestPlan": [
+    [
+      -7,
+      10
+    ],
+    [
+      -6,
+      10
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      -7,
+      9
+    ],
+    [
+      -5,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      -9,
+      7
+    ],
+    [
+      -7,
+      7
+    ],
+    [
+      -2,
+      7
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      -11,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      -8,
+      3
+    ],
+    [
+      -1,
+      3
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      -6,
+      2
+    ],
+    [
+      -4,
+      1
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      -7,
+      0
+    ],
+    [
+      -6,
+      0
+    ],
+    [
+      -4,
+      0
+    ],
+    [
+      -3,
+      0
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      9,
+      -1
+    ],
+    [
+      10,
+      -1
+    ],
+    [
+      -2,
+      -2
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      -10,
+      -3
+    ],
+    [
+      -4,
+      -4
+    ],
+    [
+      -2,
+      -4
+    ],
+    [
+      -9,
+      -5
+    ],
+    [
+      -8,
+      -5
+    ],
+    [
+      -7,
+      -5
+    ],
+    [
+      -5,
+      -5
+    ],
+    [
+      -1,
+      -5
+    ],
+    [
+      0,
+      -5
+    ],
+    [
+      7,
+      -5
+    ],
+    [
+      8,
+      -5
+    ],
+    [
+      -3,
+      -6
+    ],
+    [
+      1,
+      -6
+    ],
+    [
+      -5,
+      -7
+    ],
+    [
+      -2,
+      -8
+    ],
+    [
+      -2,
+      -10
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      4,
+      12
+    ],
+    [
+      -3,
+      11
+    ],
+    [
+      0,
+      11
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      -8,
+      8
+    ],
+    [
+      -2,
+      8
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      -5,
+      7
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      -2,
+      6
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      -2,
+      4
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      -9,
+      3
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      -9,
+      1
+    ],
+    [
+      -1,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      -9,
+      0
+    ],
+    [
+      6,
+      0
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      -6,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      -8,
+      -2
+    ],
+    [
+      2,
+      -2
+    ],
+    [
+      4,
+      -2
+    ],
+    [
+      5,
+      -2
+    ],
+    [
+      -4,
+      -3
+    ],
+    [
+      1,
+      -3
+    ],
+    [
+      -7,
+      -4
+    ],
+    [
+      3,
+      -5
+    ],
+    [
+      -6,
+      -6
+    ],
+    [
+      -1,
+      -6
+    ],
+    [
+      3,
+      -6
+    ],
+    [
+      -6,
+      -7
+    ],
+    [
+      4,
+      -7
+    ],
+    [
+      -3,
+      -8
+    ],
+    [
+      1,
+      -10
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      -5,
+      12
+    ],
+    [
+      -5,
+      10
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      -6,
+      7
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      -1,
+      6
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      -9,
+      5
+    ],
+    [
+      -4,
+      5
+    ],
+    [
+      -3,
+      5
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      -3,
+      3
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -5,
+      0
+    ],
+    [
+      -2,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      9,
+      0
+    ],
+    [
+      -11,
+      -1
+    ],
+    [
+      -5,
+      -1
+    ],
+    [
+      -3,
+      -1
+    ],
+    [
+      2,
+      -1
+    ],
+    [
+      4,
+      -1
+    ],
+    [
+      8,
+      -1
+    ],
+    [
+      -1,
+      -2
+    ],
+    [
+      7,
+      -2
+    ],
+    [
+      -9,
+      -4
+    ],
+    [
+      -1,
+      -4
+    ],
+    [
+      1,
+      -4
+    ],
+    [
+      4,
+      -4
+    ],
+    [
+      -7,
+      -6
+    ],
+    [
+      6,
+      -6
+    ],
+    [
+      0,
+      -7
+    ],
+    [
+      4,
+      -8
+    ],
+    [
+      5,
+      -8
+    ],
+    [
+      -1,
+      -9
+    ],
+    [
+      3,
+      -9
+    ],
+    [
+      -1,
+      13
+    ],
+    [
+      -4,
+      11
+    ],
+    [
+      -1,
+      11
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      -9,
+      8
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      -3,
+      7
+    ],
+    [
+      -1,
+      7
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      -10,
+      6
+    ],
+    [
+      -9,
+      6
+    ],
+    [
+      -5,
+      6
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      -10,
+      5
+    ],
+    [
+      -8,
+      5
+    ],
+    [
+      -1,
+      5
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      -10,
+      4
+    ],
+    [
+      -7,
+      4
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      -10,
+      1
+    ],
+    [
+      -7,
+      1
+    ],
+    [
+      -3,
+      1
+    ],
+    [
+      -1,
+      0
+    ],
+    [
+      -10,
+      -1
+    ],
+    [
+      -9,
+      -1
+    ],
+    [
+      -7,
+      -1
+    ],
+    [
+      -7,
+      -2
+    ],
+    [
+      1,
+      -2
+    ],
+    [
+      6,
+      -2
+    ],
+    [
+      8,
+      -2
+    ],
+    [
+      -8,
+      -3
+    ],
+    [
+      -5,
+      -3
+    ],
+    [
+      0,
+      -3
+    ],
+    [
+      -8,
+      -4
+    ],
+    [
+      -6,
+      -4
+    ],
+    [
+      2,
+      -5
+    ],
+    [
+      -2,
+      -6
+    ],
+    [
+      0,
+      -6
+    ],
+    [
+      5,
+      -6
+    ],
+    [
+      7,
+      -6
+    ],
+    [
+      -2,
+      -7
+    ],
+    [
+      -1,
+      -7
+    ],
+    [
+      -4,
+      -9
+    ],
+    [
+      0,
+      -9
+    ],
+    [
+      1,
+      -9
+    ],
+    [
+      1,
+      12
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      -5,
+      11
+    ],
+    [
+      2,
+      10
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      -5,
+      8
+    ],
+    [
+      -10,
+      7
+    ],
+    [
+      -7,
+      6
+    ],
+    [
+      -6,
+      6
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      -8,
+      4
+    ],
+    [
+      -6,
+      4
+    ],
+    [
+      -3,
+      4
+    ],
+    [
+      -1,
+      4
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      -4,
+      3
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      -10,
+      2
+    ],
+    [
+      -7,
+      2
+    ],
+    [
+      -2,
+      2
+    ],
+    [
+      -1,
+      2
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      -11,
+      1
+    ],
+    [
+      -5,
+      1
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      8,
+      0
+    ],
+    [
+      5,
+      -1
+    ],
+    [
+      7,
+      -1
+    ],
+    [
+      -9,
+      -2
+    ],
+    [
+      -4,
+      -2
+    ],
+    [
+      -9,
+      -3
+    ],
+    [
+      -6,
+      -3
+    ],
+    [
+      2,
+      -3
+    ],
+    [
+      8,
+      -3
+    ],
+    [
+      -10,
+      -4
+    ],
+    [
+      -5,
+      -4
+    ],
+    [
+      5,
+      -4
+    ],
+    [
+      6,
+      -4
+    ],
+    [
+      -6,
+      -5
+    ],
+    [
+      1,
+      -7
+    ],
+    [
+      -6,
+      -8
+    ],
+    [
+      -5,
+      -8
+    ],
+    [
+      2,
+      -8
+    ],
+    [
+      -5,
+      -9
+    ],
+    [
+      4,
+      -9
+    ],
+    [
+      -1,
+      -10
+    ],
+    [
+      -2,
+      12
+    ],
+    [
+      0,
+      12
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      -4,
+      10
+    ],
+    [
+      -4,
+      9
+    ],
+    [
+      -2,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      -6,
+      8
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      -4,
+      7
+    ],
+    [
+      -7,
+      5
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      -5,
+      2
+    ],
+    [
+      -4,
+      2
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      -6,
+      1
+    ],
+    [
+      -2,
+      1
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      -11,
+      0
+    ],
+    [
+      -2,
+      -1
+    ],
+    [
+      -3,
+      -2
+    ],
+    [
+      4,
+      -3
+    ],
+    [
+      7,
+      -3
+    ],
+    [
+      7,
+      -4
+    ],
+    [
+      8,
+      -4
+    ],
+    [
+      -2,
+      -5
+    ],
+    [
+      1,
+      -5
+    ],
+    [
+      -5,
+      -6
+    ],
+    [
+      2,
+      -7
+    ],
+    [
+      6,
+      -7
+    ],
+    [
+      -4,
+      -8
+    ],
+    [
+      -1,
+      -8
+    ],
+    [
+      0,
+      -8
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      -1,
+      12
+    ],
+    [
+      -6,
+      11
+    ],
+    [
+      1,
+      11
+    ],
+    [
+      3,
+      11
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      5,
+      11
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      -8,
+      9
+    ],
+    [
+      -6,
+      9
+    ],
+    [
+      -1,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      -7,
+      8
+    ],
+    [
+      -1,
+      8
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      -8,
+      7
+    ],
+    [
+      -3,
+      6
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      -6,
+      5
+    ],
+    [
+      -5,
+      5
+    ],
+    [
+      7,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      -11,
+      3
+    ],
+    [
+      -7,
+      3
+    ],
+    [
+      -2,
+      3
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      -11,
+      2
+    ],
+    [
+      -9,
+      2
+    ],
+    [
+      -8,
+      2
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      -10,
+      0
+    ],
+    [
+      -8,
+      0
+    ],
+    [
+      -8,
+      -1
+    ],
+    [
+      -1,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      6,
+      -1
+    ],
+    [
+      -10,
+      -2
+    ],
+    [
+      -6,
+      -2
+    ],
+    [
+      9,
+      -2
+    ],
+    [
+      -2,
+      -3
+    ],
+    [
+      -1,
+      -3
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      2,
+      -4
+    ],
+    [
+      4,
+      -5
+    ],
+    [
+      5,
+      -5
+    ],
+    [
+      6,
+      -5
+    ],
+    [
+      -4,
+      -6
+    ],
+    [
+      2,
+      -6
+    ],
+    [
+      -7,
+      -7
+    ],
+    [
+      -4,
+      -7
+    ],
+    [
+      3,
+      -7
+    ],
+    [
+      1,
+      -8
+    ],
+    [
+      2,
+      -9
+    ],
+    [
+      0,
+      -10
+    ],
+    [
+      -2,
+      13
+    ],
+    [
+      -4,
+      12
+    ],
+    [
+      -3,
+      12
+    ],
+    [
+      -2,
+      11
+    ],
+    [
+      -3,
+      10
+    ],
+    [
+      -2,
+      10
+    ],
+    [
+      -1,
+      10
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      -3,
+      9
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      -4,
+      8
+    ],
+    [
+      -3,
+      8
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      -8,
+      6
+    ],
+    [
+      -4,
+      6
+    ],
+    [
+      -2,
+      5
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      -9,
+      4
+    ],
+    [
+      -5,
+      4
+    ],
+    [
+      -4,
+      4
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      -10,
+      3
+    ],
+    [
+      -6,
+      3
+    ],
+    [
+      -5,
+      3
+    ],
+    [
+      -3,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      9,
+      2
+    ],
+    [
+      -8,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      -4,
+      -1
+    ],
+    [
+      -5,
+      -2
+    ],
+    [
+      3,
+      -2
+    ],
+    [
+      -7,
+      -3
+    ],
+    [
+      -3,
+      -3
+    ],
+    [
+      3,
+      -3
+    ],
+    [
+      5,
+      -3
+    ],
+    [
+      6,
+      -3
+    ],
+    [
+      9,
+      -3
+    ],
+    [
+      -3,
+      -4
+    ],
+    [
+      3,
+      -4
+    ],
+    [
+      -4,
+      -5
+    ],
+    [
+      -3,
+      -5
+    ],
+    [
+      -8,
+      -6
+    ],
+    [
+      4,
+      -6
+    ],
+    [
+      -3,
+      -7
+    ],
+    [
+      5,
+      -7
+    ],
+    [
+      3,
+      -8
+    ],
+    [
+      -3,
+      -9
+    ],
+    [
+      -2,
+      -9
+    ]
+  ],
+  "AreaPerTest": 19627000000.0,
+  "DefectRecordSpec": [
+    "DEFECTID",
+    "XREL",
+    "YREL",
+    "XINDEX",
+    "YINDEX",
+    "XSIZE",
+    "YSIZE",
+    "DEFECTAREA",
+    "DSIZE",
+    "CLASSNUMBER",
+    "TEST",
+    "ROUGHBINNUMBER",
+    "FINEBINNUMBER",
+    "IMAGECOUNT",
+    "IMAGELIST"
+  ],
+  "DefectList": [
+    {
+      "DEFECTID": 1,
+      "XREL": 6107.0,
+      "YREL": 3957.0,
+      "XINDEX": 0,
+      "YINDEX": -10,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 2,
+      "XREL": 5740.0,
+      "YREL": 1846.0,
+      "XINDEX": 2,
+      "YINDEX": -8,
+      "XSIZE": 33.6,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 276.0,
+      "DSIZE": 344.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 3,
+      "XREL": 3031.0,
+      "YREL": 6513.0,
+      "XINDEX": -3,
+      "YINDEX": -8,
+      "XSIZE": 50.4,
+      "YSIZE": 34.2,
+      "DEFECTAREA": 1179.000064,
+      "DSIZE": 1173.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 4,
+      "XREL": 585.0,
+      "YREL": 5909.0,
+      "XINDEX": -6,
+      "YINDEX": -6,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 5,
+      "XREL": 2052.0,
+      "YREL": 3145.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 6,
+      "XREL": 2054.0,
+      "YREL": 3136.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 7,
+      "XREL": 2058.0,
+      "YREL": 3340.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 50.6,
+      "YSIZE": 297.8,
+      "DEFECTAREA": 9050.999808,
+      "DSIZE": 439.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 8,
+      "XREL": 2099.0,
+      "YREL": 3356.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 9,
+      "XREL": 2103.0,
+      "YREL": 3411.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 10,
+      "XREL": 2128.0,
+      "YREL": 2941.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 92.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 11,
+      "XREL": 2130.0,
+      "YREL": 2966.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 62.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 12,
+      "XREL": 2150.0,
+      "YREL": 3278.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 223.9,
+      "YSIZE": 461.0,
+      "DEFECTAREA": 26684.99968,
+      "DSIZE": 3555.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 13,
+      "XREL": 2156.0,
+      "YREL": 2910.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 138.0,
+      "DSIZE": 90.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 14,
+      "XREL": 2158.0,
+      "YREL": 2954.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 15,
+      "XREL": 2158.0,
+      "YREL": 2894.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 233.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 16,
+      "XREL": 2165.0,
+      "YREL": 2988.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 159.0,
+      "DSIZE": 99.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 17,
+      "XREL": 2165.0,
+      "YREL": 2920.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 18,
+      "XREL": 2172.0,
+      "YREL": 2850.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 60.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 19,
+      "XREL": 2179.0,
+      "YREL": 2952.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 20,
+      "XREL": 2186.0,
+      "YREL": 2781.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 21,
+      "XREL": 2192.0,
+      "YREL": 2791.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 22,
+      "XREL": 2195.0,
+      "YREL": 2887.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 71.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 23,
+      "XREL": 2195.0,
+      "YREL": 2914.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 24,
+      "XREL": 2199.0,
+      "YREL": 2961.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 94.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 25,
+      "XREL": 2205.0,
+      "YREL": 2973.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 26,
+      "XREL": 2221.0,
+      "YREL": 2838.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 27,
+      "XREL": 2221.0,
+      "YREL": 2870.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 119.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 28,
+      "XREL": 2232.0,
+      "YREL": 2709.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 46.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 29,
+      "XREL": 2232.0,
+      "YREL": 2760.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 56.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 30,
+      "XREL": 2235.0,
+      "YREL": 2848.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 31,
+      "XREL": 2236.0,
+      "YREL": 2986.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 84.0,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 669.0,
+      "DSIZE": 218.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 32,
+      "XREL": 2246.0,
+      "YREL": 2829.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 56.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 33,
+      "XREL": 2253.0,
+      "YREL": 3002.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 34,
+      "XREL": 2256.0,
+      "YREL": 2665.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 35,
+      "XREL": 2260.0,
+      "YREL": 2854.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 180.0,
+      "DSIZE": 97.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 36,
+      "XREL": 2260.0,
+      "YREL": 2766.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 37,
+      "XREL": 2262.0,
+      "YREL": 3067.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 382.0,
+      "DSIZE": 101.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 38,
+      "XREL": 2263.0,
+      "YREL": 2968.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 106.4,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 754.0,
+      "DSIZE": 270.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 39,
+      "XREL": 2267.0,
+      "YREL": 2707.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 65.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 40,
+      "XREL": 2269.0,
+      "YREL": 2779.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 56.0,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 255.0,
+      "DSIZE": 74.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 41,
+      "XREL": 2280.0,
+      "YREL": 2846.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 67.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 42,
+      "XREL": 2284.0,
+      "YREL": 2720.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 83.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 43,
+      "XREL": 2287.0,
+      "YREL": 2855.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 74.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 44,
+      "XREL": 2290.0,
+      "YREL": 2907.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 167.9,
+      "YSIZE": 89.2,
+      "DEFECTAREA": 4663.000064,
+      "DSIZE": 167.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 45,
+      "XREL": 2298.0,
+      "YREL": 2684.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 46,
+      "XREL": 2301.0,
+      "YREL": 2706.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 128.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 47,
+      "XREL": 2303.0,
+      "YREL": 3007.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 71.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 48,
+      "XREL": 2311.0,
+      "YREL": 2817.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 81.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 49,
+      "XREL": 2317.0,
+      "YREL": 2663.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 55.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 50,
+      "XREL": 2322.0,
+      "YREL": 2805.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 67.2,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 531.0,
+      "DSIZE": 170.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 51,
+      "XREL": 2325.0,
+      "YREL": 2762.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 72.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 52,
+      "XREL": 2328.0,
+      "YREL": 2960.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 104.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 53,
+      "XREL": 2332.0,
+      "YREL": 2779.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 44.8,
+      "YSIZE": 13.3,
+      "DEFECTAREA": 308.0,
+      "DSIZE": 103.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 54,
+      "XREL": 2340.0,
+      "YREL": 2833.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 100.8,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 552.0,
+      "DSIZE": 122.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 55,
+      "XREL": 2342.0,
+      "YREL": 2848.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 84.0,
+      "YSIZE": 19.0,
+      "DEFECTAREA": 541.0,
+      "DSIZE": 158.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 56,
+      "XREL": 2342.0,
+      "YREL": 2817.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 94.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 57,
+      "XREL": 2353.0,
+      "YREL": 2762.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 58,
+      "XREL": 2367.0,
+      "YREL": 2861.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 116.0,
+      "DSIZE": 96.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 59,
+      "XREL": 2368.0,
+      "YREL": 2711.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 53.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 60,
+      "XREL": 2374.0,
+      "YREL": 2783.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 120.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 61,
+      "XREL": 2376.0,
+      "YREL": 2754.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 62,
+      "XREL": 2380.0,
+      "YREL": 2813.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 39.2,
+      "YSIZE": 20.9,
+      "DEFECTAREA": 318.0,
+      "DSIZE": 122.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 63,
+      "XREL": 2382.0,
+      "YREL": 2694.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 85.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 64,
+      "XREL": 2384.0,
+      "YREL": 2737.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 50.4,
+      "YSIZE": 17.1,
+      "DEFECTAREA": 329.0,
+      "DSIZE": 90.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 65,
+      "XREL": 2414.0,
+      "YREL": 2698.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 66,
+      "XREL": 2418.0,
+      "YREL": 2713.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 67,
+      "XREL": 2532.0,
+      "YREL": 2123.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 68,
+      "XREL": 2539.0,
+      "YREL": 2092.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 69,
+      "XREL": 2567.0,
+      "YREL": 2064.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 70,
+      "XREL": 2573.0,
+      "YREL": 2108.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 71,
+      "XREL": 2599.0,
+      "YREL": 2051.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 72,
+      "XREL": 2601.0,
+      "YREL": 2060.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 73,
+      "XREL": 2626.0,
+      "YREL": 2030.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 74,
+      "XREL": 2651.0,
+      "YREL": 1926.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 75,
+      "XREL": 2682.0,
+      "YREL": 2100.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 76,
+      "XREL": 2690.0,
+      "YREL": 1835.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 77,
+      "XREL": 2692.0,
+      "YREL": 1893.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 78,
+      "XREL": 2699.0,
+      "YREL": 1903.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 79,
+      "XREL": 2733.0,
+      "YREL": 2170.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 80,
+      "XREL": 2740.0,
+      "YREL": 1819.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 81,
+      "XREL": 2749.0,
+      "YREL": 2102.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 85.0,
+      "DSIZE": 48.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 82,
+      "XREL": 2760.0,
+      "YREL": 1771.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 83,
+      "XREL": 2769.0,
+      "YREL": 1969.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 84,
+      "XREL": 2772.0,
+      "YREL": 2011.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 85,
+      "XREL": 2774.0,
+      "YREL": 2094.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 86,
+      "XREL": 2780.0,
+      "YREL": 2070.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 127.0,
+      "DSIZE": 58.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 87,
+      "XREL": 2782.0,
+      "YREL": 2048.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 13.3,
+      "DEFECTAREA": 191.0,
+      "DSIZE": 44.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 88,
+      "XREL": 2797.0,
+      "YREL": 1928.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 74.0,
+      "DSIZE": 46.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 252,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 89,
+      "XREL": 2815.0,
+      "YREL": 1978.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 90,
+      "XREL": 2819.0,
+      "YREL": 1937.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 91,
+      "XREL": 2823.0,
+      "YREL": 1962.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 22.4,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 92,
+      "XREL": 2825.0,
+      "YREL": 1943.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 28.0,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 53.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 93,
+      "XREL": 2840.0,
+      "YREL": 1918.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 40.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 94,
+      "XREL": 2855.0,
+      "YREL": 1886.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 42.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 95,
+      "XREL": 2871.0,
+      "YREL": 1809.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 180.0,
+      "DSIZE": 49.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 96,
+      "XREL": 2873.0,
+      "YREL": 1842.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 33.6,
+      "YSIZE": 15.2,
+      "DEFECTAREA": 244.0,
+      "DSIZE": 64.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 97,
+      "XREL": 2878.0,
+      "YREL": 1903.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 98,
+      "XREL": 2878.0,
+      "YREL": 1869.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 99,
+      "XREL": 2880.0,
+      "YREL": 1778.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 37.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 100,
+      "XREL": 2899.0,
+      "YREL": 1835.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 101,
+      "XREL": 2914.0,
+      "YREL": 1795.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 102,
+      "XREL": 2933.0,
+      "YREL": 1711.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 103,
+      "XREL": 2934.0,
+      "YREL": 1761.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 11.2,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 21.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 104,
+      "XREL": 2938.0,
+      "YREL": 1736.0,
+      "XINDEX": 5,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 31.0,
+      "DSIZE": 39.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 105,
+      "XREL": 6972.0,
+      "YREL": 6797.0,
+      "XINDEX": 8,
+      "YINDEX": -5,
+      "XSIZE": 16.8,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 256.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 106,
+      "XREL": 7244.0,
+      "YREL": 1028.0,
+      "XINDEX": -3,
+      "YINDEX": -2,
+      "XSIZE": 16.8,
+      "YSIZE": 3.8,
+      "DEFECTAREA": 63.0,
+      "DSIZE": 51.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 107,
+      "XREL": 5108.0,
+      "YREL": 4470.0,
+      "XINDEX": 2,
+      "YINDEX": -1,
+      "XSIZE": 22.4,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 170.0,
+      "DSIZE": 723.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 108,
+      "XREL": 7209.0,
+      "YREL": 4728.0,
+      "XINDEX": 10,
+      "YINDEX": 0,
+      "XSIZE": 5.6,
+      "YSIZE": 1.9,
+      "DEFECTAREA": 10.0,
+      "DSIZE": 42.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 109,
+      "XREL": 3022.0,
+      "YREL": 5862.0,
+      "XINDEX": -11,
+      "YINDEX": 1,
+      "XSIZE": 22.4,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 148.0,
+      "DSIZE": 192.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 110,
+      "XREL": 2409.0,
+      "YREL": 806.0,
+      "XINDEX": -9,
+      "YINDEX": 2,
+      "XSIZE": 39.2,
+      "YSIZE": 11.4,
+      "DEFECTAREA": 350.0,
+      "DSIZE": 378.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 111,
+      "XREL": 5026.0,
+      "YREL": 840.0,
+      "XINDEX": -9,
+      "YINDEX": 3,
+      "XSIZE": 16.8,
+      "YSIZE": 5.7,
+      "DEFECTAREA": 95.0,
+      "DSIZE": 80.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 112,
+      "XREL": 2153.0,
+      "YREL": 756.0,
+      "XINDEX": -7,
+      "YINDEX": 3,
+      "XSIZE": 16.8,
+      "YSIZE": 9.5,
+      "DEFECTAREA": 138.0,
+      "DSIZE": 163.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 1,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    },
+    {
+      "DEFECTID": 113,
+      "XREL": 7422.0,
+      "YREL": 7225.0,
+      "XINDEX": 3,
+      "YINDEX": 3,
+      "XSIZE": 22.4,
+      "YSIZE": 7.6,
+      "DEFECTAREA": 106.0,
+      "DSIZE": 229.0,
+      "CLASSNUMBER": 0,
+      "TEST": 1,
+      "ROUGHBINNUMBER": 0,
+      "FINEBINNUMBER": 0,
+      "IMAGECOUNT": 0,
+      "IMAGELIST": 0
+    }
+  ],
+  "SummarySpec": [
+    "TESTNO",
+    "NDEFECT",
+    "DEFDENSITY",
+    "NDIE",
+    "NDEFDIE"
+  ],
+  "SummaryList": [
+    {
+      "TESTNO": 1,
+      "NDEFECT": 113,
+      "DEFDENSITY": 0.57569998503,
+      "NDIE": 398,
+      "NDEFDIE": 14
+    }
+  ],
+  "EndOfFile": true
+}]

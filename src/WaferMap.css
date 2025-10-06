@@ -1,0 +1,30 @@
+.wafer-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.wafer-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.wafer-grid {
+  display: grid;
+  gap: 2px;
+  background: white;
+  padding: 10px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid #333;
+  display: inline-grid;
+}
+
+.wafer-die {
+  width: 15px;
+  height: 15px;
+  font-size: 8px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

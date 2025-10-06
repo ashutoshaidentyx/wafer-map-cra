@@ -1,0 +1,21 @@
+/* Make Bootstrap Carousel arrows dark, bigger, always visible */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-size: 40px 40px;
+  width: 40px;
+  height: 40px;
+  filter: invert(100%) grayscale(100%); /* make arrows black */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  opacity: 1; /* always visible */
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.5 0L4.086 1.414 6.672 4H0v2h6.672l-2.586 2.586L5.5 8l4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.5 0L1.086 1.414 3.672 4H-3v2h6.672l-2.586 2.586L2.5 8l4-4-4-4z'/%3E%3C/svg%3E");
+}
